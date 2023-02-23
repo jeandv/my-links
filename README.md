@@ -1,3 +1,7 @@
+## My Links
+
+Linktree Clone with Next.js 13 + TypeScript and Google Sheets as Database and admin panel.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
